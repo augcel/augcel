@@ -9,6 +9,7 @@ auggie
 <p align="center"><b>< happily engaged ></b></p>
 <p align="center">
   <img src=https://rainy.gay/pride/bv/aroace.png> <img src=https://rainy.gay/pride/bv/nonbinary.png> <img src=https://rainy.gay/pride/bv/disability.png>
+  <p>aka. charibapon / celapon / augcel / 2gua</p>
 </p>
 <!-- desc 2 -->
 <p align="center">
