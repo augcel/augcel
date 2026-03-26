@@ -12,7 +12,7 @@ august
 <p align="center">
 <img width="110" height="60" alt="orfevre" src="https://64.media.tumblr.com/44a5b27d56eef4c9286cc57d7dacc1a9/204ad6b44c3dbbb3-04/s250x400/2300a420904f9eaa190ccc778ced112ce60f7f9e.gif" />
 <img width="110" height="60" alt="stay gold" src="https://64.media.tumblr.com/01b3422ef462c01a9287bdd70926743c/9c48de31499e51ce-76/s250x400/04e5c479d7473648923907b9bb2417a46547130e.gif" />
-<img width="110" height="60" alt="k.s. miracle" src="https://64.media.tumblr.com/aec40ed76d5a1eac66595a4d2d06a1fd/a77b8407174e729c-c4/s250x400/dbd6b881ee2c4706b237f384b8347c8133408172.gif" />
+<img width="110" height="60" alt="el condor pasa" src="https://64.media.tumblr.com/3e4f426a385f54a2f9801e9f8a981174/457cfecae3d6a705-cc/s250x400/762b26c51c9e977c05f19f0ca6a0f32dd04dd57c.gif" />
 <img width="110" height="60" alt="matikanetannhauser" src="https://64.media.tumblr.com/f2feae7650081689a24f8c734384e2a9/1167ed290f7c449e-33/s250x400/65af9a6ce282c953fe4a7e179bfd07e61c79566b.gif" />
 </p>
 <!-- aka -->
