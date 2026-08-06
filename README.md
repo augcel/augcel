@@ -6,7 +6,7 @@ august
 </h3>
 <!-- desc -->
 <p align="center"><b>21+ (dnfriend >18)</b> ; <i>they/them</i>
-<p align="center"><b>happily engaged - nearly 5 years together, nearly 10 years knowing you!</b></p>
+<p align="center"><b>happily engaged - 5 years together, nearly 10 years knowing you!</b></p>
 <p align="center"><i>internet/network/cybersecurity technician ; hardcore rhythm gamer ; competitive tetris/puyo gamer (whose fallen from grace) ; artist ; audiophile</i></p>
 <!-- oshis -->
 <p align="center">
