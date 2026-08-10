@@ -26,7 +26,8 @@ august
 </p>
 <!-- desc 2 -->
 <p align="center">
-  <img src=https://static.wikia.nocookie.net/mad-rat-dead/images/2/24/Rat_God.gif/revision/latest/scale-to-width-down/250?cb=20210204234255> </img>
+  <img src=https://media1.tenor.com/m/Lo7wrIe_l9gAAAAC/spades-slick-jack-noir.gif> </img>
+  <p align="center">i'm in love with him.</p>
 </p>
   </body>
 </html>
