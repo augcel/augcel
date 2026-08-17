@@ -10,7 +10,7 @@ august
 <p align="center"><i>internet/network/cybersecurity technician ; hardcore rhythm gamer ; competitive tetris/puyo gamer (whose fallen from grace) ; artist ; audiophile</i></p>
 <!-- music -->
 <p align="center">
-<a href="https://www.last.fm/user/YOURUSERNAME"><img src="https://lastfm-recently-played.vercel.app/api?user=rhy_t" height="auto" width="350px"/></a>
+<a href="https://www.last.fm/user/rhy_t"><img src="https://lastfm-recently-played.vercel.app/api?user=rhy_t" height="auto" width="350px"/></a>
 </p>
 <!-- aka -->
 <p align="center"><i>aka. charibapon / celapon / augcel / 2gua</i></p>
