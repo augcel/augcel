@@ -7,7 +7,7 @@ august
 <!-- desc -->
 <p align="center"><b>21+ (dnfriend >18)</b> ; <i>they/them</i>
 <p align="center"><b>happily engaged - 5 years together, nearly 10 years knowing you!</b></p>
-<p align="center"><i>internet/network/cybersecurity technician ; hardcore rhythm gamer ; competitive tetris/puyo gamer (whose fallen from grace) ; artist ; audiophile</i></p>
+<p align="center"><i>gap moe jack of all trades loser ironicism</i></p>
 <!-- music -->
 <p align="center">
 <a href="https://www.last.fm/user/rhy_t"><img src="https://lastfm-recently-played.vercel.app/api?user=rhy_t" height="auto" width="350px"/></a>
