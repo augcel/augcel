@@ -8,9 +8,9 @@ august
 <p align="center"><b>21+ (dnfriend >18)</b> ; <i>they/them</i>
 <p align="center"><b>happily engaged - 5 years together, nearly 10 years knowing you!</b></p>
 <p align="center"><i>gap moe jack of all trades loser ironicism</i></p>
-<!-- music -->
+<!-- atabook -->
 <p align="center">
-<a href="https://www.last.fm/user/rhy_t"><img src="https://lastfm-recently-played.vercel.app/api?user=rhy_t" height="auto" width="350px"/></a>
+<link href="https://acg.atabook.org/"> https://acg.atabook.org/ < :D
 </p>
 <!-- aka -->
 <p align="center"><i>aka. charibapon / celapon / augcel / 2gua</i></p>
